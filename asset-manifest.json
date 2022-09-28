@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/https,://github.com/EmilSatyev/react-countries/static/css/main.1e0a81ea.css",
-    "main.js": "/https,://github.com/EmilSatyev/react-countries/static/js/main.60d6463e.js",
+    "main.js": "/https,://github.com/EmilSatyev/react-countries/static/js/main.e87c43a6.js",
     "index.html": "/https,://github.com/EmilSatyev/react-countries/index.html",
     "main.1e0a81ea.css.map": "/https,://github.com/EmilSatyev/react-countries/static/css/main.1e0a81ea.css.map",
-    "main.60d6463e.js.map": "/https,://github.com/EmilSatyev/react-countries/static/js/main.60d6463e.js.map"
+    "main.e87c43a6.js.map": "/https,://github.com/EmilSatyev/react-countries/static/js/main.e87c43a6.js.map"
   },
   "entrypoints": [
     "static/css/main.1e0a81ea.css",
-    "static/js/main.60d6463e.js"
+    "static/js/main.e87c43a6.js"
   ]
 }
